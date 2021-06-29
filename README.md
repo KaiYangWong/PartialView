@@ -6,7 +6,7 @@
 1. 新增一個控制器
 2. 對此控制器新增檢視，在此步驟要勾選【使用預設的版面配置】
 
-* Notion連結 => https://www.notion.so/66ce981c23e04de29bab3840a588b4c1
+* Notion連結 => https://www.notion.so/66ce981c23e04de29bab3840a588b4c1 <br>
 詳細的說明可以看我的Notion筆記
 
 * 資料來源：
