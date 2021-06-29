@@ -10,6 +10,6 @@
 詳細的說明可以看我的Notion筆記
 
 * 資料來源：
-　ASP.NET MVC 無痛快速上手 => https://www.tibame.com/course/377
+ASP.NET MVC 無痛快速上手 => https://www.tibame.com/course/377
 
 ![PartiaView](https://user-images.githubusercontent.com/30917086/123770849-3310da00-d8fd-11eb-9948-3e00478a1210.JPG)
