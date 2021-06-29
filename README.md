@@ -1,6 +1,6 @@
 # 實作版面配置(PartialView)
 
-* 說明
+### 說明
 
 
 Notion連結：https://www.notion.so/66ce981c23e04de29bab3840a588b4c1
